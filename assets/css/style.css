@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color: gold !important; 
+}
+
+/* .jumbotron {
+    background-image: url("../images/jumbotron-bg.jpg");
+    background-size: cover;
+} */
+
+.jumbotron h1 {
+    color: #000;
+    text-shadow: 3px 3px #fff;
+}
+
+/* Attempting to override the bootstrap css */
+.container-flud {
+    background-color: bisque;
+}
